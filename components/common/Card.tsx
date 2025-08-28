@@ -17,3 +17,12 @@ const Card: React.FC<CardProps> = ({ title, description, imageUrl, children }) =
 };
 
 export default Card;
+
+
+
+
+
+
+
+
+
